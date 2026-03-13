@@ -31,7 +31,7 @@ Reduce Friction: Automatically "Green light" transactions where both numbers and
 
 Focus Resources: Direct human investigators to cases where the AI detects a high confidence mismatch between reported numbers and textual sentiment.
 
-Even though often initial human investigations are as important, this way we can reduce the numbers unnecessary interdictions.
+Even though often initial human investigations are as important, this way we can reduce the numbers unnecessary interdictions and sustain healthier business growth.
 
 📂 Project Structure
 analysis.ipynb: The full end-to-end walk-through of the audit and AI implementation.
