@@ -1,6 +1,6 @@
 Project Sentinel: Multimodal Fraud Intelligence
 Bridging the gap between numerical thresholds and contextual risk.
-In traditional financial auditing, we often rely on "hard rules" with numerical thresholds like Debt-to-Equity ratios or ROA. However, sophisticated risk doesn't always show up in the balance sheet immediately. It hides in the language of management reports and risk disclosures.
+In traditional financial auditing, we often rely on "hard rules" with numerical thresholds like Debt to Equity ratios or ROA. However, sophisticated risk doesn't always show up in the balance sheet immediately. It hides in the language of management reports and risk disclosures.
 
 Project Sentinel is a proof of concept for a multimodal risk engine. It demonstrates that by fusing structured financial data with unstructured text analysis, we can catch "Shadow Risk" that legacy systems are programmed to ignore.
 
